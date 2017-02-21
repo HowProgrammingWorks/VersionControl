@@ -51,7 +51,7 @@ run Git, so there's actually nothing special you should do.
 
 Alternatively, if you want a newer version, you can install it from the
 official package at <https://git-scm.com/download/mac> or using
-[Homebrew](https://brew.sh) package manager via `$ brew install git`.
+the [Homebrew](https://brew.sh) package manager via `$ brew install git`.
 
 ### Linux
 
