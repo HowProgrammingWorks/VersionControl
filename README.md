@@ -31,9 +31,10 @@ us via the emails above ;)
      JetBrains products, Xcode, Visual Studio) include their own Git tools
      and using them is far more appropriate that installing a separate
      GUI client if you use an IDE;
-   - [GitHub Desktop](https://desktop.github.com/) (easy to use but very
-     limited in functionality)
-   - [Tortoise Git](https://tortoisegit.org/)
+   - [GitHub Desktop](https://desktop.github.com/) for Mac and Windows (easy to
+     use but very limited in functionality)
+   - [SourceTree](https://www.sourcetreeapp.com/) for Mac and Windows
+   - [Tortoise Git](https://tortoisegit.org/) for Windows
    - More examples: <https://git-scm.com/downloads/guis>
 
 ### Windows

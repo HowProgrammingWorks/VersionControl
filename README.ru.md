@@ -33,9 +33,10 @@ issue](https://github.com/HowProgrammingWorks/VersionControl/issues/new) или
      JetBrains, Xcode, Visual Studio) встроены свои средства для работы с Git и
      гораздо лучше использовать их, чем устанавливать отдельный GUI-клиент, если
      вы используете одну из этих IDE;
-   - [GitHub Desktop](https://desktop.github.com/) (очень простой в
-     использовании, но чрезвычайно ограничен в функциональности);
-   - [Tortoise Git](https://tortoisegit.org/);
+   - [GitHub Desktop](https://desktop.github.com/) для Mac и Windows (очень
+     простой в использовании, но чрезвычайно ограничен в функциональности);
+   - [SourceTree](https://www.sourcetreeapp.com/) для Mac и Windows;
+   - [Tortoise Git](https://tortoisegit.org/) для Windows;
    - другие примеры: <https://git-scm.com/downloads/guis>.
 
 ### Windows
