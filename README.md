@@ -9,8 +9,10 @@ contribute to existing open-source software.
 
 Repository maintainers:
 
- * Alexey Orlenko &lt;eaglexrlnk@gmail.com&gt;
- * Timur Shemsedinov &lt;timur.shemsedinov@gmail.com&gt;
+ * Alexey Orlenko ([@aqrln](https://github.com/aqrln))
+   &lt;eaglexrlnk@gmail.com&gt;
+ * Timur Shemsedinov ([@tshemsedinov](https://github.com/tshemsedinov))
+   &lt;timur.shemsedinov@gmail.com&gt;
 
 If you feel like something is missing or unclear there, feel free to [open an
 issue](https://github.com/HowProgrammingWorks/VersionControl/issues/new) or

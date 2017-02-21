@@ -9,8 +9,10 @@
 
 Репозиторий поддерживают:
 
- * Алексей Орленко &lt;eaglexrlnk@gmail.com&gt;
- * Тимур Шемсединов &lt;timur.shemsedinov@gmail.com&gt;
+ * Алексей Орленко ([@aqrln](https://github.com/aqrln))
+   &lt;eaglexrlnk@gmail.com&gt;
+ * Тимур Шемсединов ([@tshemsedinov](https://github.com/tshemsedinov))
+   &lt;timur.shemsedinov@gmail.com&gt;
 
 Если вы считаете, что нечто важное упущено или что-то непонятно, вы можете
 [открыть
