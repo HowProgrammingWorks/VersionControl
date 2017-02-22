@@ -63,3 +63,21 @@ Examples:
   `$ sudo apt-get install git-all`
 * Fedora: `$ sudo dnf install git`
 * Arch: `$ sudo pacman -S git`
+
+## Getting Started
+
+* [Git cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Getting started with GitHub](https://guides.github.com/activities/hello-world/)
+* [Ignoring files in a repository](https://help.github.com/articles/ignoring-files/)
+* [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
+
+## Everyday Git Usage
+
+* [Interactively learn how Git works and how to use essential commands](http://learngitbranching.js.org/)
+* [A more advanced Git cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
+* [What to do if you accidentally created mess in your repository](http://justinhileman.info/article/git-pretty/git-pretty.png)
+
+## Advanced Materials
+
+* [Git Book](https://git-scm.com/book/en/v2)
+* [Git Reference Manual](https://git-scm.com/docs)
