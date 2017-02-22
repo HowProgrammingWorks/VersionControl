@@ -69,3 +69,21 @@ install git`.
   `$ sudo apt-get install git-all`;
 * Fedora: `$ sudo dnf install git`;
 * Arch: `$ sudo pacman -S git`.
+
+## Для начинающих
+
+* [Шпаргалка по Git](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Начало работы с GitHub](https://guides.github.com/activities/hello-world/)
+* [Игнорирование файлов в репозитории](https://help.github.com/articles/ignoring-files/)
+* [Ассоциирование редактора с Git](https://help.github.com/articles/associating-text-editors-with-git/)
+
+## Повседневное использование
+
+* [Интерактивный обучающий материал по принципам работы Git и основным командам](http://learngitbranching.js.org/)
+* [Более продвинутая шпаргалка по Git](http://ndpsoftware.com/git-cheatsheet.html)
+* [Что делать, если случайно в репозитории всё пошло не так](http://justinhileman.info/article/git-pretty/git-pretty.png)
+
+## Материалы для продвинутого использования
+
+* [Git Book](https://git-scm.com/book/en/v2)
+* [Git Reference Manual](https://git-scm.com/docs)
