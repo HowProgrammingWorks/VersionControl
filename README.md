@@ -76,6 +76,7 @@ Examples:
 * [Interactively learn how Git works and how to use essential commands](http://learngitbranching.js.org/)
 * [A more advanced Git cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [What to do if you accidentally created mess in your repository](http://justinhileman.info/article/git-pretty/git-pretty.png)
+* [A good collection of Git-related materials from CIA](https://wikileaks.org/ciav7p1/cms/space_1736707.html)
 
 ## Advanced Materials
 

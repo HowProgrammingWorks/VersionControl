@@ -82,6 +82,7 @@ install git`.
 * [Интерактивный обучающий материал по принципам работы Git и основным командам](http://learngitbranching.js.org/)
 * [Более продвинутая шпаргалка по Git](http://ndpsoftware.com/git-cheatsheet.html)
 * [Что делать, если случайно в репозитории всё пошло не так](http://justinhileman.info/article/git-pretty/git-pretty.png)
+* [Неплохая коллекция материалов по Git от ЦРУ](https://wikileaks.org/ciav7p1/cms/space_1736707.html)
 
 ## Материалы для продвинутого использования
 
