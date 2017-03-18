@@ -72,6 +72,7 @@ install git`.
 
 ## Для начинающих
 
+* [Попробуйте основы Git прямо в браузере](https://try.github.io/levels/1/challenges/1)
 * [Шпаргалка по Git](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Начало работы с GitHub](https://guides.github.com/activities/hello-world/)
 * [Игнорирование файлов в репозитории](https://help.github.com/articles/ignoring-files/)
