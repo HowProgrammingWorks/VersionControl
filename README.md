@@ -67,7 +67,7 @@ Examples:
 ## Getting Started
 
 * [Try Git interactively in your browser](https://try.github.io/levels/1/challenges/1)
-* [Git cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 * [Getting started with GitHub](https://guides.github.com/activities/hello-world/)
 * [Ignoring files in a repository](https://help.github.com/articles/ignoring-files/)
 * [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
