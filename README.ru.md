@@ -77,6 +77,7 @@ install git`.
 * [Начало работы с GitHub](https://guides.github.com/activities/hello-world/)
 * [Игнорирование файлов в репозитории](https://help.github.com/articles/ignoring-files/)
 * [Ассоциирование редактора с Git](https://help.github.com/articles/associating-text-editors-with-git/)
+* [Git: наглядная справка](https://marklodato.github.io/visual-git-guide/index-ru.html)
 
 ## Повседневное использование
 
@@ -89,3 +90,9 @@ install git`.
 
 * [Git Book](https://git-scm.com/book/en/v2)
 * [Git Reference Manual](https://git-scm.com/docs)
+* [Git Community Book](https://github.s3.amazonaws.com/media/book.pdf)
+
+## Видео-курсы
+
+* [Git: Полный курс для начинающих и не только](https://rutracker.org/forum/viewtopic.php?t=5777331)
+* [Udemy - Complete Git and Github Beginner to Expert](https://thepiratebay.org/description.php?id=44397021)
